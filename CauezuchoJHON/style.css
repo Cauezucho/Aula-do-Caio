@@ -1,0 +1,22 @@
+body {
+    background-color: darkblue;
+    color: aliceblue;
+    
+}
+
+img {
+    width: 324px;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
+
+h1 {
+    position: absolute;
+    top: 30px;
+}
+
+h2 {
+    position: absolute;
+    top: 70px;
+}   
