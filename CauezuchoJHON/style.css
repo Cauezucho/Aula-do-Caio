@@ -4,7 +4,7 @@ body {
     
 }
 
-img {
+img { 
     width: 324px;
     position: absolute;
     top: 30px;
@@ -12,11 +12,24 @@ img {
 }
 
 h1 {
+    font-family: fantasy;
     position: absolute;
     top: 30px;
 }
 
 h2 {
+
     position: absolute;
-    top: 70px;
+    top: 90px;
 }   
+
+.Footer {
+    width: 1550px;
+    height: 94px;
+    background-color: rgb(13, 9, 68);
+    position: absolute;
+    top: 620px;
+    left: 0px;
+    
+    
+}
