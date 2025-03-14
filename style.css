@@ -1,0 +1,48 @@
+body {
+    background-color: darkblue;
+    color: aliceblue;
+    
+}
+
+img { 
+    width: 324px;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
+
+h1 {
+    font-size: 290%;
+    font-family: fantasy;
+    position: absolute;
+    top: 30px;
+}
+
+h2 {
+    font-size: 210%;
+    font-family: fantasy;
+    position: absolute;
+    top: 150px;
+}   
+
+.Footer {
+    width: 1550px;
+    height: 94px;
+    background-color: rgb(13, 9, 68);
+    position: absolute;
+    top: 620px;
+    left: 0px;
+     
+}
+
+h1 {
+    background-color: rgb(13, 9, 68);
+
+}
+
+h2{
+    background-color: rgb(13, 9, 68);
+    background-size: 1000%;
+}
+
+
