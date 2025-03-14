@@ -12,15 +12,17 @@ img {
 }
 
 h1 {
+    font-size: 290%;
     font-family: fantasy;
     position: absolute;
     top: 30px;
 }
 
 h2 {
-
+    font-size: 210%;
+    font-family: fantasy;
     position: absolute;
-    top: 90px;
+    top: 150px;
 }   
 
 .Footer {
@@ -30,6 +32,17 @@ h2 {
     position: absolute;
     top: 620px;
     left: 0px;
-    
-    
+     
 }
+
+h1 {
+    background-color: rgb(13, 9, 68);
+
+}
+
+h2{
+    background-color: rgb(13, 9, 68);
+    background-size: 1000%;
+}
+
+
