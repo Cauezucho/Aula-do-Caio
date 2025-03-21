@@ -1,6 +1,6 @@
 body {
-    background-color: darkblue;
-    color: aliceblue;
+    background-color: rgb(0, 74, 173);
+    color: rgb(0, 0, 0);
     
 }
 
@@ -28,7 +28,7 @@ h2 {
 .Footer {
     width: 1550px;
     height: 94px;
-    background-color: rgb(13, 9, 68);
+    background-color: rgb(0, 79, 200);
     position: absolute;
     top: 620px;
     left: 0px;
@@ -36,12 +36,12 @@ h2 {
 }
 
 h1 {
-    background-color: rgb(13, 9, 68);
+    background-color: rgb(0, 79, 200);
 
 }
 
 h2{
-    background-color: rgb(13, 9, 68);
+    background-color: rgb(0, 79, 200);
     
 
 }
